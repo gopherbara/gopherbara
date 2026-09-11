@@ -1,34 +1,36 @@
-# Vlad
-`Go Developer`  `Try something new` `Chose path of Clean Code`
+# Vlad Voitovych
 
-I'm Go Developer, who tries to write code following the principles of Clean Code with the least amount of bugs.\
-My projects were written from scratch, so they went from vague outlines to something worthy (at my opinion of course).\
-I use Go only for 3 years: 2 years as a part of tech-team and 1 year just for the satisfaction of the soul. Also I get experience of C# for 1 year as a commercial experience and 1 year as self-study experience.<br>
-I know how to save and get data from PostgreSQL, MongoDB, Redis, MS SQL, ClickHouse.\
-I also start learning React, just to make some presentable view for my projects. Of course, the backend is totally awesome, but with UI applications start to play with completely new, interesting colors.\
-So, I`m on my way for full-stack development of something mind-blowing, I hope)
+**Senior Full-Stack Developer | Go · React · TypeScript**
 
-## Contact me
-Gmail : vlados.voitovych@gmail.com <br>
-LinkedIn: https://www.linkedin.com/in/vlad-voitovych-536b24138/     
-                        
-         
+Senior Full-Stack Developer with 8+ years of commercial software development experience building high-load products across fintech, sports betting, and advertising technology.
 
-          
-          
-          
+I started as a backend engineer, designing Go services, APIs, integrations, and distributed systems. I later expanded into full-stack development with React and TypeScript, allowing me to deliver product functionality end to end—from backend architecture and data processing to user-facing features.
 
-<!--
-**vv-projects/vv-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work focuses on reliability, scalability, performance, maintainability, and pragmatic engineering decisions that support real product needs.
 
-Here are some ideas to get you started:
+## Technical expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** Go, microservices, distributed systems, REST APIs, gRPC
+- **Frontend:** React, TypeScript, JavaScript, HTML5, CSS3
+- **Data:** PostgreSQL, MongoDB, Redis, Microsoft SQL Server
+- **Messaging:** RabbitMQ, Kafka
+- **Cloud and infrastructure:** Docker, Kubernetes, GCP, Helm, CI/CD, Linux
+- **Observability:** Grafana, Prometheus, OpenTelemetry
+- **Engineering:** System design, API design, performance optimization, production troubleshooting, code reviews, mentoring, and technical documentation
+
+## Professional focus
+
+- End-to-end product development
+- High-load and distributed systems
+- Cloud-native microservices
+- Reliable APIs and third-party integrations
+- Performance and resource optimization
+- Production observability and incident investigation
+
+Most of my commercial work is hosted in private repositories. The projects available here represent selected experiments, learning work, and technical implementations.
+
+## Contact
+
+- **Email:** [vlados.voitovych@gmail.com](mailto:vlados.voitovych@gmail.com)
+- **Location:** Krakow, Poland
+
