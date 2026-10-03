@@ -1,6 +1,6 @@
 # Vlad Voitovych
 
-**Senior Full-Stack Developer | Go · React  **
+**Senior Full-Stack Developer | Go · React**
 
 Senior Full-Stack Developer with 8+ years of commercial software development experience building high-load products across fintech, sports betting, and advertising technology.
 
